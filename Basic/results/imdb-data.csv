@@ -1,0 +1,24 @@
+0,1,2,3,4
+ae,ae,, , 
+TABLENAME ,tablerows ,datalength ,indexlength ,Size in MB 
+akaname ,=1121984 ,109707264 ,0.,104.63 
+akatitle ,434784,696108544,0.,691.66
+castinfo ,4282565 ,62573205504 ,1407188992 ,=3796.00 
+charname ,4258500 ,63085312,0.,37.00 
+4D,16384,16384,0.03,compcast type 
+335152,49889280,0.,47.58 ,companyname 
+4D,16384,16384,0.03,companytype 
+completecast ,0.,16384,0.,0.02
+infotype ,113,16384,16384,0.03
+keyword ,0.,16384,0.,0.02
+kindtype ,FF,16384,16384,0.03
+link type ,18.,16384,16384,0.03
+moviecompanies ,63649545 ,6208355328,0.,198.70
+movieinfo,1791270 ,472825856 ,623658496,473.48
+moviekeyword ,0.,16384,0.,0.02
+movielink ,0.,16384,0.,0.02
+6175263 ,6879755264 ,0.,8393.00,name 
+personbirth ,6285274,38092800,0.,36.33
+personheight ,187477 ,=13123584 ,0.,12.52
+personinfo ,63416384 ,6678428672 ,93487104 ,6736.16
+roletype ,L2.,16384,16384,0.03

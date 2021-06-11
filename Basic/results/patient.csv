@@ -1,0 +1,14 @@
+0,1,2,3,4,5
+ , , , , , 
+Patient,Procedure,Procedure Date,Status,Assignee,FT
+08/30/2018,Darren Adams.,Something medical,Complete,Mike A., 
+08/20/2018,Song Bao,Something medical,Paused,Jennifer S., 
+06/07/2018,Justine Robinson,Something medical,Complete,Unassigned, 
+Salome Fernan,08/24/2018,Something medical,Active.,Unassigned, 
+10/04/2018,Lucas Pacheco.,Something medical,Active.,Mike A., 
+08/04/2018,Shadrias Pearson,Something medical,Active.,Aaron B., 
+07/24/2018,Luvleen Lawrence.,Something medical,Active.,Unassigned, 
+08/20/2018,Song Bao,Something medical,Paused,Mike A., 
+08/20/2018,Song Bao,Something medical,Active.,Unassigned, 
+07/31/2018,Victor Pacheco,Something medical,Active.,Jennifer S., 
+06/02/2018,Neeshaan El Pasha,Something medical,Paused,Jennifer S., 

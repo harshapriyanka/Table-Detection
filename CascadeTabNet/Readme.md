@@ -28,7 +28,7 @@ pip install pytesseract
 
 * [images]() :- This folder contains images to be used for OCR.
 * [output_csv]() :- It contains result of tabular image in csv file.
-* [detections]() :- Images with table detections using CascadeTabNet.
+* [detections]() :- Images with table detections (i.e. image with bounding boxes and their co-ordinates saved as.npy files) using CascadeTabNet.
 * [requirements.txt]() :- Requirement file.
 * [roi-to-csv.py]() :- Code file.
 
@@ -48,17 +48,9 @@ python3 roi-to-csv.py --img-path <path-to-desired-image> --roi-path <path-to-fol
 
 ![Screenshot](images/patient.png)
 
-### Threashold:-
-
-![Screenshot](processed_image/threshold.png)
-
-### Dialated:-
-
-![Screenshot](processed_image/dilation.png)
-
 ### ROI:-
 
-![Screenshot](processed_image/show_box.png)
+![Screenshot](detections/patient/patient.png)
 
 
 
